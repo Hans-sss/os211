@@ -11,3 +11,6 @@ ZCZC W00 10 L25 C-language: study, etc.
 ZCZC W00 15 L22 YouTube: study, etc.
 ZCZC W00 120 L26 Movie: relax, etc.
 ZCZC W00 5 L23 Discord: discussion, etc.
+ZCZC W00 90 L23 Discord: discussion about pages
+ZCZC W00 120 L03 GitHub related
+
