@@ -1,11 +1,20 @@
-title: Operating Systems 2021-1
-version: "0001---28-Feb-2021"
-copyright: "2021-2021"
-email: samuel.sharon@ui.ac.id
-author: Samuel Sharon Sidabutar
-address: Jakarta
-description: >- # this means to ignore newlines until "baseurl:"
-  Operating Systems 2021-1
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hans-sss.github.io/os211/" # the base hostname & protocol for your site, e.g. http://example.com
-urlgithub: https://github.com/Hans-sss/os211
+title:       "Operating Systems 2021-1 (OS211)"
+version:     "0027---28-Feb-2021"
+copyright:   "2021-2021"
+description: >- 
+  OS 2021
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+author:           "Samuel Sharon"
+address:          "1906400204"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://hans-sss.github.io/os211/"
+urlcontact:       "TBS"
+urlgithub:        "https://github.com/hans-sss/os211/"
+urlghpage:        "https://hans-sss.github.io/os211/"
+keywords:         "jekyll, testing"
+github:           [metadata]
+
