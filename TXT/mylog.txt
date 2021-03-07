@@ -15,9 +15,9 @@ ZCZC W00 90 L23 Discord: discussion about pages
 ZCZC W00 120 L03 GitHub related
 ZCZC W01 110 L02 ZOOM related sync class
 ZCZC W01 20 L01 SCELE related
-ZCZC W01 270 L21 VirtualBox: install Debian fix multiple errors
+ZCZC W01 240 L21 VirtualBox: install Debian fix multiple errors
 ZCZC W01 50 L22 Youtube: tutorial
-ZCZC W01 90 L23 Discord: Discuss instalation
-ZCZC W01 90 L10 Assignment (General) Pop quiz w01
-ZCZC W01 120 L21 VirtualBox: gsgs coba coba
-ZCZC W01 80 L11 Assignment #1: writing top 10
+ZCZC W01 40 L23 Discord: Discuss instalation
+ZCZC W01 60 L10 Assignment (General) Pop quiz w01
+ZCZC W01 60 L21 VirtualBox: gsgs coba coba
+ZCZC W01 60 L11 Assignment #1: writing top 10
