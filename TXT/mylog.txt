@@ -21,3 +21,8 @@ ZCZC W01 40 L23 Discord: Discuss instalation
 ZCZC W01 60 L10 Assignment (General) Pop quiz w01
 ZCZC W01 60 L21 VirtualBox: gsgs coba coba
 ZCZC W01 60 L11 Assignment #1: writing top 10
+ZCZC W02 100 L02 ZOOM related sync class
+ZCZC W02 20 L01 SCELE related
+ZCZC W02 20 L06 Reading slides
+ZCZC W02 15 L10 Assignment (General) pop quiz
+ZCZC W01 60 L22 Youtube: C tutorial
