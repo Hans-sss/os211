@@ -25,4 +25,7 @@ ZCZC W02 100 L02 ZOOM related sync class
 ZCZC W02 20 L01 SCELE related
 ZCZC W02 20 L06 Reading slides
 ZCZC W02 15 L10 Assignment (General) pop quiz
-ZCZC W01 60 L22 Youtube: C tutorial
+ZCZC W02 60 L22 Youtube: C tutorial
+ZCZC W02 300 L12 Assignment #2 generate key fix multiple errors
+ZCZC W02 45 L09 AsDos: asking about errors
+ZCZC W02 60 L23 Discord: discuss with friends
