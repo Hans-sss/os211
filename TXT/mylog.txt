@@ -29,3 +29,11 @@ ZCZC W02 60 L22 Youtube: C tutorial
 ZCZC W02 300 L12 Assignment #2 generate key fix multiple errors
 ZCZC W02 45 L09 AsDos: asking about errors
 ZCZC W02 60 L23 Discord: discuss with friends
+ZCZC W03 100 L02 Zoom: weekly class
+ZCZC W03 30 L01 Scele Related 
+ZCZC W03 60 L06 Reading slides and week assignment
+ZCZC W03 60 L10 Assignment pop quizes
+ZCZC W03 210 L13 Assignment 2 w03 checklist
+ZCZC W03 60 L23 Discord: discuss with friends
+ZCZC W03 45 L05 GSGS
+
