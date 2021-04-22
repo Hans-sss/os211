@@ -51,3 +51,12 @@ ZCZC W05 100 L05 GSGS Related
 ZCZC W05 120 L10 Assignment quiz
 ZCZC W05 210 L15 Assignment 5 w05 checklist
 ZCZC W05 90 L23 Discord discuss with friends
+ZCZC W06 30 L01 scele related
+ZCZC W06 100 L02 zoom: class
+ZCZC W06 50 L06 reading slides
+ZCZC W06 120 L05 GSGS
+ZCZC W06 60 L10 quiz
+ZCZC W06 150 L15  Assignment 6 w06 checklist
+ZCZC W06 90 L23 Discord discuss with friends
+ZCZC W06 15 L01 scele related
+
