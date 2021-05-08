@@ -56,15 +56,25 @@ ZCZC W06 100 L02 zoom: class
 ZCZC W06 50 L06 reading slides
 ZCZC W06 120 L05 GSGS
 ZCZC W06 60 L10 quiz
-ZCZC W06 150 L15  Assignment 6 w06 checklist
+ZCZC W06 150 L16  Assignment 6 w06 checklist
 ZCZC W06 90 L23 Discord discuss with friends
 ZCZC W06 15 L01 scele related
 ZCZC W07 100 L02 Zoom: weekly class
 ZCZC W07 40 L01 scele related
 ZCZC W07 50 L06 Reading slides
 ZCZC W07 60 L10 Assignment pop quiz
-ZCZC W07 180 L14 Assignment w04 checklist
+ZCZC W07 180 L17 Assignment w07 checklist
 ZCZC W07 120 L05 GSGS
 ZCZC W07 60 L23 Discord: discuss with friends
 ZCZC W07 30 L22 youtube
-ZCZC W07 60 L14 Assignment top 10
+ZCZC W07 60 L17 Assignment top 10
+ZCZC W08 100 L02 Zoom: weekly class
+ZCZC W08 30 L01 scele related
+ZCZC W08 30 L06 Reading slides
+ZCZC W08 60 L10 Assignment pop quiz
+ZCZC W08 240 L18 Assignment w08 checklist
+ZCZC W08 60 L21 VirtualBox
+ZCZC W08 120 L05 GSGS
+ZCZC W08 90 L23 Discord: discuss with friends
+ZCZC W08 30 L22 youtube
+ZCZC W08 60 L18 Assignment top 10
